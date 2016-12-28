@@ -2,12 +2,11 @@
 
 Problema: Dados 2 valores enteros, a y b, retorna 1 si uno es negativo y el otro es positivo. Excepto si el parametro negative es true, entonces retorna 1 solo si ambos son negativos,caso contrario retorna 0.
 
-### Inicio: Calcular si estamos en problemas.
+### Inicio: Calcular si es 0 o 1 
 
 #### Ingreso de Datos
 - a
 - b
--negative
 - salida
 
 #### Proceso
